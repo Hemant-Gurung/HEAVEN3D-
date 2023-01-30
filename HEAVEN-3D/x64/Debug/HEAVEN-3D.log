@@ -1,0 +1,4 @@
+﻿  App.cpp
+C:\_DAE_3\Extra\HEAVEN-3D\HEAVEN-3D\App.cpp(173,132): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\_DAE_3\Extra\HEAVEN-3D\HEAVEN-3D\App.cpp(232,30): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+  HEAVEN-3D.vcxproj -> C:\_DAE_3\Extra\HEAVEN-3D\x64\Debug\HEAVEN-3D.exe
